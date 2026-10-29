@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "zh-tw-hsiaochen",
+  "edgeVoice": "zh-TW-HsiaoChenNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 173,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 1,
+      "text": "需要時間到達。",
+      "file": "c001.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 2,
+      "text": "在支撐下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 4,
+      "text": "感受與地面的接觸。",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 6,
+      "text": "呼氣時間更長。",
+      "file": "c006.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 7,
+      "text": "[暫停：23]",
+      "file": "c007.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 9,
+      "text": "[暫停：23]",
+      "file": "c009.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 10,
+      "text": "讓肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 11,
+      "text": "讓腹部變軟。",
+      "file": "c011.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 12,
+      "text": "[暫停：29]",
+      "file": "c012.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 13,
+      "text": "開啟耳朵。",
+      "file": "c013.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 14,
+      "text": "注意最近的聲音。",
+      "file": "c014.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 15,
+      "text": "[暫停：29]",
+      "file": "c015.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 16,
+      "text": "注意您能聽到的最遠的聲音。",
+      "file": "c016.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 17,
+      "text": "[暫停：29]",
+      "file": "c017.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 18,
+      "text": "注意聲音之間的安靜。",
+      "file": "c018.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 19,
+      "text": "[暫停：35]",
+      "file": "c019.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 20,
+      "text": "聲音出現並消失。您不需要說出它們的名稱。",
+      "file": "c020.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 21,
+      "text": "聞則聞之。",
+      "file": "c021.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 22,
+      "text": "[暫停：47]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "當思緒走神時，回到聆聽。",
+      "file": "c023.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 24,
+      "text": "[暫停：35]",
+      "file": "c024.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 25,
+      "text": "包括你自己的呼吸聲。",
+      "file": "c025.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 26,
+      "text": "[暫停：35]",
+      "file": "c026.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 27,
+      "text": "在整個音景中休息。",
+      "file": "c027.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 28,
+      "text": "一個活生生的振動場。",
+      "file": "c028.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 29,
+      "text": "[暫停：90]",
+      "file": "c029.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 30,
+      "text": "聽力中沒有什麼需要解決的。",
+      "file": "c030.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 31,
+      "text": "[暫停：70]",
+      "file": "c031.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 32,
+      "text": "[暫停：35]",
+      "file": "c032.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 33,
+      "text": "開始加深呼吸。",
+      "file": "c033.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 34,
+      "text": "在這裡休息。",
+      "file": "c034.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 35,
+      "text": "[暫停：27]",
+      "file": "c035.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 36,
+      "text": "再次感受一下房間。",
+      "file": "c036.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 37,
+      "text": "擺動手指和腳趾。",
+      "file": "c037.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 38,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c038.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 39,
+      "text": "慢慢地進入接下來的事情。",
+      "file": "c039.ogg",
+      "durationSec": 5.304
+    }
+  ]
+}

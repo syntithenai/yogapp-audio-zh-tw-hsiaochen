@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "zh-tw-hsiaochen.zip", "bytes": 57380568, "sha256": "91cd1b5db85b86c3c9741388cf6272909bfe4feedfe5651ba3ba4c8f4daa70d2"}
+  ]
+}
